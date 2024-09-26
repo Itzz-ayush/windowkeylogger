@@ -1,5 +1,5 @@
 '''
-  Orignal code by mydarkthawts updated by me
+  Orignal code by mydarkthawts improve/edited by me
 '''
 
 
